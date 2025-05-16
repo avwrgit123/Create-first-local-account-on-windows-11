@@ -33,6 +33,7 @@ windows 11 ask you to create Microsoft account when you create you'r firs user i
 </table>
 <p>Sources</p>
 <a href="https://www.elevenforum.com/t/what-is-oobe-bypassnro.5011/">what is oobe-bypassnro command</a>
+<hr>
 <a href="https://linustechtips.com/topic/1515890-what-does-oobebypassnro-stand-for/">oobe-bypassnro</a>
 <a href="https://pureinfotech.com/bypass-internet-connection-install-windows-11/">install windows 11 with no internet</a>
 <a href="https://www.youtube.com/watch?v=LK75SWX4F2s">use start ms-cxh:localonly command</a>
