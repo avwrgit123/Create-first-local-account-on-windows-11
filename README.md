@@ -32,6 +32,7 @@ windows 11 ask you to create Microsoft account when you create you'r first user 
   </tr>
 </table>
 <p>Sources
+<br>
 https://www.elevenforum.com/t/what-is-oobe-bypassnro.5011/
 <br>
 https://linustechtips.com/topic/1515890-what-does-oobebypassnro-stand-for/
