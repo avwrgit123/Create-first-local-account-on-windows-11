@@ -24,10 +24,10 @@ windows 11 ask you to create Microsoft account when you create you'r firs user i
   </tr>
   <tr>
     <td>oobe/bypassnro</td>
-    <td></td>
+    <td><p>Restart the system and give the option to create local account with no internet</p></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>start ms-cxh:localonly</td>
+    <td><p>Create local account with no internet</p><p>This command brings local user create box on right side</p></td>
   </tr>
 </table>
